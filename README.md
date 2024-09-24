@@ -18,8 +18,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RX64d/RX64d/output/snake.svg" alt="Snake animation" /> 
-
 ###
